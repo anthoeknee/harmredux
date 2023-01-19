@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Harm Redux Info</title>
+      <link>https://harmredux.info/blog</link>
+      <description>A website that contains many free harm reduction resources and links.</description>
+      <language>en-us</language>
+      <managingEditor>anthoeknee@proton.me (HarmRedux Resources)</managingEditor>
+      <webMaster>anthoeknee@proton.me (HarmRedux Resources)</webMaster>
+      <lastBuildDate>Tue, 12 Jan 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://harmredux.info/tags/tailwind/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://harmredux.info/blog/introducing-tailwind-nextjs-starter-blog</guid>
+    <title>Introducing Tailwind Nextjs Starter Blog</title>
+    <link>https://harmredux.info/blog/introducing-tailwind-nextjs-starter-blog</link>
+    <description>Looking for a performant, out of the box template, with all the best in web technology to support your blogging needs? Checkout the Tailwind Nextjs Starter Blog template.</description>
+    <pubDate>Tue, 12 Jan 2021 00:00:00 GMT</pubDate>
+    <author>anthoeknee@proton.me (HarmRedux Resources)</author>
+    <category>next-js</category><category>tailwind</category><category>guide</category>
+  </item>
+
+  <item>
+    <guid>https://harmredux.info/blog/new-features-in-v1</guid>
+    <title>New features in v1</title>
+    <link>https://harmredux.info/blog/new-features-in-v1</link>
+    <description>An overview of the new features released in v1 - code block copy, multiple authors, frontmatter layout and more</description>
+    <pubDate>Sat, 07 Aug 2021 15:32:14 GMT</pubDate>
+    <author>anthoeknee@proton.me (HarmRedux Resources)</author>
+    <category>next-js</category><category>tailwind</category><category>guide</category>
+  </item>
+
+    </channel>
+  </rss>

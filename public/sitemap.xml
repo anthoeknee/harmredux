@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://harmredux.info/about</loc>
+  </url>
+
+  <url>
+    <loc>https://harmredux.info</loc>
+  </url>
+
+  <url>
+    <loc>https://harmredux.info/projects</loc>
+  </url>
+
+  <url>
+    <loc>https://harmredux.info/tags</loc>
+  </url>
+
+  <url>
+    <loc>https://harmredux.info/tags/book</loc>
+  </url>
+
+  <url>
+    <loc>https://harmredux.info/tags/canada</loc>
+  </url>
+
+  <url>
+    <loc>https://harmredux.info/tags/code</loc>
+  </url>
+
+  <url>
+    <loc>https://harmredux.info/tags/feature</loc>
+  </url>
+
+  <url>
+    <loc>https://harmredux.info/tags/features</loc>
+  </url>
+
+  <url>
+    <loc>https://harmredux.info/tags/github</loc>
+  </url>
+
+  <url>
+    <loc>https://harmredux.info/tags/guide</loc>
+  </url>
+
+  <url>
+    <loc>https://harmredux.info/tags/holiday</loc>
+  </url>
+
+  <url>
+    <loc>https://harmredux.info/tags/images</loc>
+  </url>
+
+  <url>
+    <loc>https://harmredux.info/tags/markdown</loc>
+  </url>
+
+  <url>
+    <loc>https://harmredux.info/tags/math</loc>
+  </url>
+
+  <url>
+    <loc>https://harmredux.info/tags/multi-author</loc>
+  </url>
+
+  <url>
+    <loc>https://harmredux.info/tags/next</loc>
+  </url>
+
+  <url>
+    <loc>https://harmredux.info/tags/ols</loc>
+  </url>
+
+  <url>
+    <loc>https://harmredux.info/tags/reflection</loc>
+  </url>
+
+  <url>
+    <loc>https://harmredux.info/tags/tailwind</loc>
+  </url>
+
+  <url>
+    <loc>https://harmredux.info/tags/writings</loc>
+  </url>
+
+  <url>
+    <loc>https://harmredux.info/blog/code-sample</loc>
+  </url>
+
+  <url>
+    <loc>https://harmredux.info/blog/deriving-ols-estimator</loc>
+  </url>
+
+  <url>
+    <loc>https://harmredux.info/blog/github-markdown-guide</loc>
+  </url>
+
+  <url>
+    <loc>https://harmredux.info/blog/guide-to-using-images-in-nex</loc>
+  </url>
+
+  <url>
+    <loc>https://harmredux.info/blog/introducing-tailwind-nex-starter-blog</loc>
+  </url>
+
+  <url>
+    <loc>https://harmredux.info/blog/new-features-in-v1</loc>
+  </url>
+
+  <url>
+    <loc>https://harmredux.info/blog/pictures-of-canada</loc>
+  </url>
+
+  <url>
+    <loc>https://harmredux.info/blog/the-time-machine</loc>
+  </url>
+
+  <url>
+    <loc
+      >https://harmredux.info/blog/nested-route/introducing-multi-part-posts-with-nested-routing</loc
+    >
+  </url>
+</urlset>

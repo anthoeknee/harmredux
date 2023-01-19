@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Harm Redux Info</title>
+      <link>https://harmredux.info/blog</link>
+      <description>A website that contains many free harm reduction resources and links.</description>
+      <language>en-us</language>
+      <managingEditor>anthoeknee@proton.me (HarmRedux Resources)</managingEditor>
+      <webMaster>anthoeknee@proton.me (HarmRedux Resources)</webMaster>
+      <lastBuildDate>Tue, 08 Mar 2016 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://harmredux.info/tags/code/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://harmredux.info/blog/code-sample</guid>
+    <title>Sample .md file</title>
+    <link>https://harmredux.info/blog/code-sample</link>
+    <description>Example of a markdown file with code blocks and syntax highlighting</description>
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>anthoeknee@proton.me (HarmRedux Resources)</author>
+    <category>markdown</category><category>code</category><category>features</category>
+  </item>
+
+    </channel>
+  </rss>

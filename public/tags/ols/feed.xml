@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Harm Redux Info</title>
+      <link>https://harmredux.info/blog</link>
+      <description>A website that contains many free harm reduction resources and links.</description>
+      <language>en-us</language>
+      <managingEditor>anthoeknee@proton.me (HarmRedux Resources)</managingEditor>
+      <webMaster>anthoeknee@proton.me (HarmRedux Resources)</webMaster>
+      <lastBuildDate>Mon, 21 Dec 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://harmredux.info/tags/ols/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://harmredux.info/blog/deriving-ols-estimator</guid>
+    <title>Deriving the OLS Estimator</title>
+    <link>https://harmredux.info/blog/deriving-ols-estimator</link>
+    <description>How to derive the OLS Estimator with matrix notation and a tour of math typesetting using markdown with the help of KaTeX.</description>
+    <pubDate>Mon, 21 Dec 2020 00:00:00 GMT</pubDate>
+    <author>anthoeknee@proton.me (HarmRedux Resources)</author>
+    <category>next js</category><category>math</category><category>ols</category>
+  </item>
+
+    </channel>
+  </rss>
